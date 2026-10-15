@@ -1,5 +1,5 @@
 # O. Divya Reddy | Portfolio
-live link :divya-reddy-w15b.vercel.app
+live link : https://divya-reddy-w15b.vercel.app/
 
 My personal portfolio website, built with HTML, CSS, and JavaScript.
 
